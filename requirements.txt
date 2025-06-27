@@ -1,0 +1,4 @@
+flask
+anthropic
+PyPDF2
+python-docx
